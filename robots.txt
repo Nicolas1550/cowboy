@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# DEMO. Cambiar luego de cargar inventario real.

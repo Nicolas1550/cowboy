@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "mora", "name": "Mora", "code": "CB-001", "tag": "Destacada", "level": "Alto handicap", "age": 8, "sex": "Yegua", "coat": "Zaina", "height": "1,56 m", "experience": "Competición avanzada", "temperament": "Atenta y sensible", "location": "Argentina · a confirmar", "order": 1,
+    "summary": "Agilidad, lectura de juego y una respuesta precisa para los momentos decisivos.",
+    "description": "Una yegua de ejemplo pensada para mostrar el nivel de detalle que puede tener cada ficha. Su perfil describe una combinación de velocidad, cambios de dirección y sensibilidad a las ayudas del jinete.",
+    "highlights": ["Respuesta ágil", "Buen manejo", "Perfil competitivo"],
+    "photos": [30955752, 9110880, 30955756]
+  },
+  {
+    "slug": "eclipse", "name": "Eclipse", "code": "CB-002", "tag": "Nueva incorporación", "level": "Competición", "age": 7, "sex": "Caballo", "coat": "Alazán", "height": "1,55 m", "experience": "Torneos y prácticas", "temperament": "Equilibrado", "location": "Argentina · a confirmar", "order": 2,
+    "summary": "Potencia controlada y un carácter que inspira confianza en cada chukker.",
+    "description": "Ficha ilustrativa para un caballo de competición. En la versión definitiva podremos sumar videos jugando, linaje, trayectoria y los datos veterinarios que el vendedor autorice a publicar.",
+    "highlights": ["Potencia y ritmo", "Cambios de mano", "Temperamento estable"],
+    "photos": [14242981, 17725975, 9869977]
+  },
+  {
+    "slug": "jazmin", "name": "Jazmín", "code": "CB-003", "tag": "Selección", "level": "Competición", "age": 6, "sex": "Yegua", "coat": "Tordilla", "height": "1,53 m", "experience": "Temporadas de polo", "temperament": "Mansa y receptiva", "location": "Argentina · a confirmar", "order": 3,
+    "summary": "Una propuesta versátil para quienes priorizan confianza, conexión y fluidez.",
+    "description": "Ejemplo de ficha centrada en el carácter, la comodidad de monta y la respuesta del caballo. Toda la información comercial está pendiente de confirmación.",
+    "highlights": ["Buena disposición", "Versatilidad", "Manejo cómodo"],
+    "photos": [20684239, 5263725, 35255962]
+  },
+  {
+    "slug": "centella", "name": "Centella", "code": "CB-004", "tag": "Destacada", "level": "Alto handicap", "age": 9, "sex": "Yegua", "coat": "Colorada", "height": "1,57 m", "experience": "Competición avanzada", "temperament": "Enérgica y franca", "location": "Argentina · a confirmar", "order": 4,
+    "summary": "Explosión, determinación y un estilo que se hace notar en cancha.",
+    "description": "Una ficha de demostración orientada a deportistas que buscan un caballo de respuesta rápida. Los atributos que ves son ilustrativos y se reemplazarán por la información real.",
+    "highlights": ["Aceleración", "Reacción rápida", "Perfil deportivo"],
+    "photos": [17725975, 35249695, 30955725]
+  },
+  {
+    "slug": "bruma", "name": "Bruma", "code": "CB-005", "tag": "Disponible para consultar", "level": "En formación", "age": 5, "sex": "Yegua", "coat": "Tordilla", "height": "1,52 m", "experience": "Entrenamiento", "temperament": "Noble", "location": "Argentina · a confirmar", "order": 5,
+    "summary": "Un perfil joven, con proyección deportiva y espacio para seguir creciendo.",
+    "description": "Ejemplo de cómo presentar un caballo en formación, con información sobre avance del entrenamiento y características de su desarrollo.",
+    "highlights": ["Proyección", "Manejo en desarrollo", "Buen carácter"],
+    "photos": [19654607, 27182576, 20684239]
+  },
+  {
+    "slug": "tormenta", "name": "Tormenta", "code": "CB-006", "tag": "Selección", "level": "Competición", "age": 8, "sex": "Caballo", "coat": "Oscuro", "height": "1,58 m", "experience": "Competición", "temperament": "Firme y atento", "location": "Argentina · a confirmar", "order": 6,
+    "summary": "Presencia, fuerza y una manera de moverse que transmite seguridad.",
+    "description": "Ficha ficticia para mostrar la venta consultiva de caballos de polo. La versión real puede sumar fotografías en cancha y fuera de ella, origen y registro.",
+    "highlights": ["Presencia", "Buen físico", "Concentración"],
+    "photos": [30548521, 4339419, 13340062]
+  },
+  {
+    "slug": "canela", "name": "Canela", "code": "CB-007", "tag": "Nueva incorporación", "level": "En formación", "age": 4, "sex": "Yegua", "coat": "Alazana", "height": "1,50 m", "experience": "Inicio de polo", "temperament": "Dócil", "location": "Argentina · a confirmar", "order": 7,
+    "summary": "Una joven promesa para acompañar un proceso de crecimiento deportivo.",
+    "description": "Ejemplo de caballo joven. Este espacio está preparado para mostrar videos de entrenamiento, evolución, genealogía y evaluaciones verificadas.",
+    "highlights": ["Potencial", "Aprendizaje", "Buen trato"],
+    "photos": [6215897, 9869977, 6866499]
+  },
+  {
+    "slug": "nevada", "name": "Nevada", "code": "CB-008", "tag": "Selección", "level": "Competición", "age": 7, "sex": "Yegua", "coat": "Tordilla", "height": "1,54 m", "experience": "Prácticas y torneos", "temperament": "Confiable", "location": "Argentina · a confirmar", "order": 8,
+    "summary": "Elegancia, suavidad y equilibrio para disfrutar cada minuto de juego.",
+    "description": "Ejemplo ilustrativo de una yegua para polo. La información se reemplazará por los datos que entregue el propietario.",
+    "highlights": ["Comodidad", "Equilibrio", "Versatilidad"],
+    "photos": [35255962, 5263725, 27182576]
+  }
+]
